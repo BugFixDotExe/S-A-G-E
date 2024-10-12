@@ -62,7 +62,7 @@ This combination allows SAGE to provide **real-time, large-scale** job search re
 ## Technology Stack
 
 - **Backend**: Node.js, Express.js
-- **Frontend**: HTML, CSS, JavaScript (AJAX and jQuery)
+- **Frontend**: HTML, CSS, JavaScript (React) (Pending..)
 - **Automation**: Puppeteer for browser automation
 - **OCR**: Tesseract.js for extracting text from images
 - **Large Language Model (LLM)**: Google Gemini for matching jobs to CV content
