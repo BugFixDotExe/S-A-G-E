@@ -1,0 +1,26 @@
+{
+  "name": "sage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "linkedin-jobs-api": "^1.0.5",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.7",
+    "office-text-extractor": "^3.0.3",
+    "puppeteer": "^23.5.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
